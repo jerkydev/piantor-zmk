@@ -1,0 +1,11 @@
+file_format: "1"
+id: piantor
+name: piantor
+type: shield
+url: https://github.com/beekeeb/piantor
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - piantor_left
+  - piantor_right
